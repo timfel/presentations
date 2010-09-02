@@ -1,0 +1,8 @@
+{ "name": "JRuby C API support", 
+  "sections": [
+    {"section": "opening"},
+    {"section": "gaining_speed"},
+    {"section": "C-API"},
+    {"section": "cext_support"}
+  ]
+}

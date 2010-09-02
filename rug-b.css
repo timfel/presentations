@@ -1,0 +1,84 @@
+code {
+  font-size: 22px;
+}
+
+h2 {
+  top: -10%;
+}
+
+table {
+  align-left: auto;
+  align-right: auto;
+  font-size: 32px;
+  border-spacing: 6px;
+}
+
+thead {
+  border-bottom: 1px solid #555;
+}
+
+td {
+  padding: 12px;
+}
+
+.sidebar {
+  left: 0px;
+  width: 15%;
+  position: relative;
+}
+
+ol {
+  list-style: lower-roman;
+}
+
+.smbullets ul li {  
+  text-align: left;
+  margin-left: 15%;
+}
+
+.bullets ul li {
+  padding: 25px 25px 25px 25%;
+  padding-left: 25%;
+  text-align: left;
+}
+
+.smsmbullets ul li {
+  text-align: center;
+  font-size: 18px;
+  margin-top: -12px;
+  margin-left: 0%;
+}
+
+.numberbullets ul li {
+  list-style: decimal;
+}
+
+.side-note {
+  color: #555;
+  font-size: 50%;
+}
+
+.right_and_up {
+  float: right;
+  margin-top: -10%;
+}
+
+.rubinius_logo img {
+  height: 78px;
+  position: absolute;
+  width: 50px;
+  margin-left: 45px;
+}
+
+.jruby_logo img {
+  height: 45px;
+  position: absolute;
+  width: 156px;
+}
+
+.ruby_logo img {
+  height: 48px;
+  position: absolute;
+  width: 48px;
+  margin-left: 55px;
+}
