@@ -1,4 +1,4 @@
-!SLIDE smbullets incremental
+!SLIDE smbullets
 ## “But there's a fast C library already out there!”
 * Encryption and authentication?
 * Image processing?

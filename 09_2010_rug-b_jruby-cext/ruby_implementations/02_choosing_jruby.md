@@ -1,4 +1,4 @@
-!SLIDE smbullets incremental
+!SLIDE smbullets
 
 ## So why should I pick JRuby? ##
 
