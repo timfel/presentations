@@ -54,9 +54,10 @@
 	@@@ c
 	VALUE c_mutate_string(VALUE ruby_string) {
 		char* c_string = RSTRING(ruby_string)->ptr;
+		c_string[0] = '2';
+		c_string[1] = '3';
+		return Qnil;
 	}
-	c_string[0] = '2';
-	c_string[1] = '3';
 
 !SLIDE
 # Synchronization of Structures in JRuby
