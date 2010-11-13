@@ -1,0 +1,6 @@
+{ "name": "JRuby C API support", 
+  "sections": [
+    {"section": "opening"},
+    {"section": "C-API"}
+  ]
+}
